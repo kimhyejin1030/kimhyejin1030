@@ -1,7 +1,11 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e9bef9,100:a2acfb&height=220&text=Welcome%20to%20hyejin's%20Github&animation=&fontColor=454040&fontSize=40" />
     </div>
-    <div align= "center"> 
+ <div>
+
+     
+</div>   
+        <div align= "center"> 
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 Hi there 👋 </h3>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hello, my name is Hyejin Kim!<br> I'm currently learning Java,Spring<br>I'm dreaming of becoming a backend-developer🌱
     </div> 
@@ -31,5 +35,6 @@
 
 ![Hyejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhyejin1030&show_icons=true&theme=dracula)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimhyejin1030&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
     
