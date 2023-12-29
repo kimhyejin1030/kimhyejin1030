@@ -7,7 +7,7 @@
 </div>   
         <div align= "center"> 
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 Hi there 👋 </h3>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hello, my name is Hyejin Kim!<br> I'm currently learning Java,Spring<br>I'm dreaming of becoming a backend-developer🌱
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hello, my name is Hyejin Kim!<br> I'm currently learning Java,Spring Framework<br>I'm dreaming of becoming a backend-developer🌱
     </div> 
     </div>
     <div align= "center">
