@@ -1,15 +1,12 @@
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:k.hyejin1030@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=tistory&logoColor=white)](https://your-blog-url)
+
 <h3> 🙌 안녕하세요, 백엔드 개발자 김혜진입니다. </h3>
 
 #### 안정적인 API 설계와 데이터 흐름을 고민하는 백엔드 개발자
 - Spring Boot와 JPA를 활용해 안정적인 API와 데이터 흐름을 설계합니다.
 - 팀 프로젝트에서 원활한 소통과 요구사항 분석을 통해 문제를 해결해왔습니다.
 - 단순 구현에 그치지 않고, 문제의 원인을 분석하고 근본적인 해결을 지향합니다.
-
-<br>
-
-### 📪 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:k.hyejin1030@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=tistory&logoColor=white)](https://your-blog-url)
 
 <br>
 
